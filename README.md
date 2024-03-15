@@ -9,7 +9,7 @@ This is a React class component example to learn
 Open in terminal, run the following command
 
 ```bash
-  npm init
+  npm install
 ```
 
 ```bash
